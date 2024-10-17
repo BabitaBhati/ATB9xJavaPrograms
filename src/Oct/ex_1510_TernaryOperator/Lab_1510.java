@@ -15,6 +15,7 @@ public class Lab_1510 {
         int e= 20;
         System.out.println(--e + e++ + e--);//--e 19 19,e++ 19 20, e-- 20 19
         System.out.println(e);
+        //(a>b && a>c)+a: (b > c)? +b: "c is larger "+c
 
     }
 }
