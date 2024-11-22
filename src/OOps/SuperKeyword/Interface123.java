@@ -2,11 +2,11 @@ package OOps.SuperKeyword;
 
 public class Interface123{
     public static void main(String[] args) {
-        PP p=new PP();
+        /*PP p=new PP();
         p.f1();
-        p.f2();
+        p.f2();*/
     }
-}
+}/*
 class PP implements I2 {
 
     @Override
@@ -24,3 +24,4 @@ interface I {
     void f2();
 
         }
+*/
